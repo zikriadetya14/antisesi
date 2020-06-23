@@ -9,5 +9,6 @@ pkg install python
 pkg install python2
 pkg install git
 git clone https://github.com/zikriadetya14/antisesi
-ls
+ls (L kecil)
+
 python3 terbaru.py
